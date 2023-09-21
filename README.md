@@ -1,2 +1,2 @@
-# Weather_APPlication
-Python weathercast involves predicting things like cloud cover, rain or snow, wind speed, and temperature before they happen. ... We forecast the weather by looking at current conditions, motion of air and clouds, historical patterns, pressure changes, and computer models.
+# Weather_App
+This Python project uses the OpenWeatherMap API to provide current weather information for a specified city. It prompts the user to enter a city name, fetches weather data from the API, and display the information like temperature,rainfall, and visibility etc regarding current weather of specific city.
